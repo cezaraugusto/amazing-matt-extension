@@ -1,0 +1,16 @@
+{
+  "name": "The amazing Matt extension",
+  "description": "Get privileged Shields data",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Matt's high-quality extension"
+  },
+  "manifest_version": 2
+}
