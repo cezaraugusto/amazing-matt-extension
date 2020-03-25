@@ -2,6 +2,8 @@
 
 Sample extension to fetch privileged Brave Shields data
 
+<img src="image.png" align="center">
+
 ## Usage
 
 1. brave://extensions, toggle "developer mode."
